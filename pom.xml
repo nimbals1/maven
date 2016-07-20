@@ -19,7 +19,7 @@
     <repository>
         <id>bintray-nimbals1-maven</id>
         <name>nimbals1-maven</name>
-        <url>https://api.bintray.com/maven/nimbals1/maven/mavenrepo/;publish=1</url>
+        <url>https://api.bintray.com/maven/nimbals1/maven/mavenrepo</url>
     </repository>
 </distributionManagement>
 
